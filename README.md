@@ -1,9 +1,25 @@
 # dotfiles
 > A magic toolbox 
 
-To Do:
+This repo mainly serves as a learning repo for configuring my shell processes for data science and machine learning.  
+I have much to learn. 
 
-- vim
-- tmux
-- gitconfig
 
+
+## ZSH
+- no oh-my-zsh
+
+## powerlevel10k
+
+
+## vim
+- Native package loading. [source](https://vimhelp.org/repeat.txt.html#packages) 
+- Netrw. [source](https://vimhelp.org/pi_netrw.txt.html)
+
+## tmux
+
+
+## gitconfig
+
+
+## miniconda
