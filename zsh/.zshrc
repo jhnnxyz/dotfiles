@@ -17,3 +17,13 @@ autoload -U compinit; compinit
 
 # case insensitive path-completion 
 zstyle ':completion:*' matcher-list 'm:{[:lower:][:upper:]}={[:upper:][:lower:]}' 'm:{[:lower:][:upper:]}={[:upper:][:lower:]} l:|=* r:|=*' 'm:{[:lower:][:upper:]}={[:upper:][:lower:]} l:|=* r:|=*' 'm:{[:lower:][:upper:]}={[:upper:][:lower:]} l:|=* r:|=*' 
+
+# pyenv: enable autocompletion and all subcommands
+#eval "$(pyenv init -)"
+
+# Init pyenv when you start a terminal session
+export WORKON_HOME=~/.ve
+export PROJECT_HOME=~/Projects
+eval "$(pyenv init -)"
+#pyenv virtualenvwrapper_lazy
+

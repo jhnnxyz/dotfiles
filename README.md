@@ -7,7 +7,7 @@ I have much to learn.
 
 
 ## ZSH
-- no oh-my-zsh
+- no oh-my-zsh framework
 
 ## powerlevel10k
 
@@ -22,4 +22,7 @@ I have much to learn.
 ## gitconfig
 
 
-## miniconda
+## Pyenv
+
+
+
