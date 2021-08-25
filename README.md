@@ -1,18 +1,12 @@
 # dotfiles
 > A magic toolbox 
 
-This repo mainly serves as a learning repo for configuring my shell processes for data science and machine learning.  
-I have much to learn. 
+### ZSH
 
-
-
-## ZSH
-- no oh-my-zsh framework
-
-## powerlevel10k
-
+Zsh will succeed bash as the default shell for MacOS. [Zsh](https://zsh.sourceforge.io/Doc/Release/zsh_toc.html#SEC_Contents) offers a lot of functionality straight out of the box. 
 
 ## vim
+
 - Native package loading. [source](https://vimhelp.org/repeat.txt.html#packages) 
 - Netrw. [source](https://vimhelp.org/pi_netrw.txt.html)
 
@@ -23,6 +17,3 @@ I have much to learn.
 
 
 ## Pyenv
-
-
-
