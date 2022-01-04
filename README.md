@@ -24,3 +24,7 @@ to clutter my system with bloated frameworks such as oh-my-zsh.
 
 
 ## Pyenv
+
+
+[gruvbox](https://github.com/morhetz/gruvbox)
+[lsd](https://github.com/Peltoche/lsd)
